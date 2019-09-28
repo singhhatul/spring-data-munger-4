@@ -1,0 +1,12 @@
+
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+\squid:CallToDeprecatedMethod"4Remove this use of "assertEquals"; it is deprecated.(Ó“¤Û
+asquid:CallToDeprecatedMethod4"4Remove this use of "assertEquals"; it is deprecated.(¢úàãÿÿÿÿÿ
+T
+squid:S106["9Replace this use of System.out or System.err by a logger.(†øò—ùÿÿÿÿ
+nsquid:S11924"RDefine a constant instead of duplicating this literal "java.lang.String" 11 times.(¢úàãÿÿÿÿÿ
+nsquid:S11924"RDefine a constant instead of duplicating this literal "java.lang.Integer" 5 times.(¢úàãÿÿÿÿÿ
+T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(½õŸ÷øÿÿÿÿ
+Msquid:S2696H"6Make the enclosing method "static" or remove this set.(¼ˆÑ£
